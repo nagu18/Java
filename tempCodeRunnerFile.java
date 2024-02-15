@@ -1,2 +1,1 @@
-     static class Dem
-
+ParameterizedConstructor
