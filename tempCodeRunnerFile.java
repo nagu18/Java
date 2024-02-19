@@ -1,1 +1,2 @@
-ParameterizedConstructor
+
+    for(int print:sum){
