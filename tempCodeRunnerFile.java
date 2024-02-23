@@ -1,2 +1,1 @@
-
-    for(int print:sum){
+ 
