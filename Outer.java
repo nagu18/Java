@@ -9,5 +9,5 @@ public class Outer {
             Outer.Inner in = obj.new Inner();
             in.msg();
         }
-    }
+    },
 
