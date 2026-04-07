@@ -9,3 +9,5 @@ public class If_Sample {
     }
 }
 // This code demonstrates a simple if-else condition.
+// Note as we can see println is used for new line printing and print is used for same line printing.
+
